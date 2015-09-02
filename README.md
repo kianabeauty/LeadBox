@@ -1,7 +1,7 @@
 # LeadBox
 Kiana Beauty specific Lead Box based off of Eager.io Lead Box
 
-__Lead Box_ was originally developed by the team at Eager, specifically [Adam Schwartz](https://github.com/adamschwartz).
+__Lead Box__ was originally developed by the team at Eager, specifically [Adam Schwartz](https://github.com/adamschwartz).
 
 View the original project [here](https://github.com/EagerIO/LeadBox)
 
